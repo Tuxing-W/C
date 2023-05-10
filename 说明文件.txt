@@ -1,0 +1,4 @@
+#include <stdlib.h>
+system("pause");    // 防止运行后自动退出，需头文件stdlib.h
+
+bubble_sort()——一维数组冒泡排序函数函数
