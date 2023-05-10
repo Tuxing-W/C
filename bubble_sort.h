@@ -1,11 +1,11 @@
-void bubble_sort(int arr[],int n);
+void bubble_sort(int arr[],int size_arr);
 
-void bubble_sort(int arr[],int n)
+void bubble_sort(int arr[],int size_arr)
 {
-    for(int i=0;i<n-1;i++)
+    for(int i=0;i < size_arr - 1;i++)
     {
         int flag=1;
-        for(int j=0;j<n-i-1;j++)
+        for(int j=0;j < size_arr - i - 1;j++)
         {
             if(arr[j]>arr[j+1])
             {
