@@ -1,4 +1,4 @@
-//nogood.c
+//nogood.c——2.4-2.5
 #include<stdio.h>
 
 int main(void)
