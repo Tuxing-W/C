@@ -1,15 +1,6 @@
 # C
-C语言学习库
-
-"#include <stdlib.h>"
-"system("pause");"    // 防止运行后自动退出，需头文件stdlib.h
-
-"getchar();"  //得到字符后继续，防止运行后自动退出
-
-+：bubble_sort.h——一维数组冒泡排序函数头文件
-
-//列出数组检查
-for(int i = 0;i <= n;i++)
-{
-    printf("%d\n",arr[i]);
-}
+C语言学习进度跟进
+编程工具VS code
+学习《C primer plus》第六版
+chXX————单元
+head————可用头文件
